@@ -1,0 +1,6 @@
+framework module Pods_Fov {
+  umbrella header "Pods-Fov-umbrella.h"
+
+  export *
+  module * { export * }
+}
